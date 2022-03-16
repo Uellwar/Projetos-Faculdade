@@ -1,0 +1,35 @@
+.conteiner{
+    width: 800px;
+    margin: auto;
+}
+
+.conteiner img{
+    width: 100%;
+}
+
+.formulario_cadastro{
+    position: absolute;
+    bottom: 2%;
+    right: 0;
+    color: #fff;
+}
+
+.label_cadastro{
+    position: absolute;
+    top: -17%;
+    right: 60%;
+    white-space: initial;
+    text-align: center;
+    padding: 10px;
+    color: #fff;
+    font-size: larger;
+}
+
+.formulario_login{
+    position: absolute;
+    bottom: 10%;
+    text-align: center;
+    right: 0;
+    color: #000;
+}
+
